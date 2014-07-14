@@ -10,6 +10,8 @@ CodeIgniter Signup -- is advanced signup for framework CodeIgniter. The main adv
 
 **FEATURES**
 
+*User profiles
+
 You can set user profile URL type
 
 Can edit number of followings and followers, that displays in user profile
@@ -38,6 +40,8 @@ Editable avatar/cover max size
 
 On/off message "JS required" when JS is turned off
 
+*Login
+
 On/off login/signup via socials
 
 On/off small social buttons
@@ -52,11 +56,15 @@ Display captcha/recaptcha
 
 Captcha width, height, refreshing captcha via AJAX
 
+*Recover
+
 Recover email via only email/only login/login and email
 
 Editable expire time for recover emails
 
 Show recover captcha/recaptcha
+
+*Signup
 
 Require confirm password on Signup: on/off
 

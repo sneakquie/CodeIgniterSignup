@@ -12,6 +12,32 @@ CodeIgniter Signup -- is advanced signup for framework CodeIgniter. The main adv
 
 #####User profiles
 
+Allow to change timezone in user settings
+
+Allow to change language in user settings
+
+Allow to change language in topmenu
+
+Allow to detect from user preferences and change language
+
+Allow to change password in user settings
+
+Allow messaging
+
+Show social profiles on user profile
+
+Allow site search
+
+Allow about-field in user profile
+
+Allow website-field in user profile
+
+Allow Google speech-search
+
+Allow to change email in user settings
+
+Allow to change login is user settings
+
 You can set user profile URL type
 
 Can edit number of followings and followers, that displays in user profile
@@ -78,3 +104,48 @@ Allow signup via invites
 
 On/off invites required
 
+On/off confirm email required
+
+HTML confirm email/plain text
+
+Show confirm page with message after registration
+
+Editable default group after registration
+
+Editable group after you confirmed email (0 - no changes)
+
+Signup via socials
+
+Show small socials
+
+Show terms
+
+Terms link
+
+Signup social services to choose
+
+-Facebook
+
+-VK
+
+-Twitter
+
+-Steam
+
+-Flickr
+
+-Vimeo
+
+-YouTube
+
+-G+
+
+-Одноклассники
+
+-LinkedIn
+
+-Tumblr
+
+Show captcha/recaptcha in signup page
+
+Editable captcha settings for signup page

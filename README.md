@@ -124,27 +124,27 @@ Terms link
 
 Signup social services to choose
 
--Facebook
+- Facebook
 
--VK
+- VK
 
--Twitter
+- Twitter
 
--Steam
+- Steam
 
--Flickr
+- Flickr
 
--Vimeo
+- Vimeo
 
--YouTube
+- YouTube
 
--G+
+- G+
 
--Одноклассники
+- Одноклассники
 
--LinkedIn
+- LinkedIn
 
--Tumblr
+- Tumblr
 
 Show captcha/recaptcha in signup page
 
